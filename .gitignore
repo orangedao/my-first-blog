@@ -4,3 +4,5 @@ myvenv
 db.sqlite3
 .DS_Store
 /virtlin-dj18/
+/myvenv/
+myvenv_back.7z
